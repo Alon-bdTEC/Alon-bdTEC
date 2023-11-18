@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Alon-bdTEC (Alon Ben David)
+- 👀 I’m interested in math, physics and using solidworks and code to create the necessary components for my projects
+- 🌱 I’m currently in 3-rd year of mechanical engineering in the Technion - Israel Institute of Technology
+- 💻 I will be using this website to backup my projects from high school and university for future use
