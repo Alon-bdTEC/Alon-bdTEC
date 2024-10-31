@@ -2,3 +2,6 @@
 - 👀 I’m interested in math, physics, robotics, dynamics, control, heat transfer and using solidworks and code to create the necessary components for my projects
 - 🌱 I’m currently in 4-th year of mechanical engineering in the Technion - Israel Institute of Technology
 - 💻 I will be using this website to backup my projects from high school and university for future use
+- 🦾 I did 2 projects under Dr Gal BD (AKA my father) and many projects under the technion and school.
+- The projects: 2 Boxes for Gal, An android app on 12th grade, an Intro2Robotics simulation project and many more under the belt of the technion.
+- 🎯 The next Step: Finish the degree, be safe and complete the final project of the degree (engineering project - 6 credit points)
